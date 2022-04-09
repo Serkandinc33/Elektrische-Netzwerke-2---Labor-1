@@ -2,4 +2,4 @@
 
 In dieser Aufgabe wird die maximale Leistungsübertragung betrachtet. Zusätzlich hat man die Lastspannungen, Leistungen und Leistungsfaktoren für variierende Widerstände und Kondensatoren in Betracht gezogen.
 
-In diesem Repository befinden sich die Matlab Code und dadurch entstandene Graphen für unterschiedliche Frequenzwerte.
+In diesem Repository befinden sich die Matlab Code und dadurch entstandene Graphen für unterschiedliche Frequenzwerte. Daneben gibt es hier eine Python-Code für Fehlerberechnung.
